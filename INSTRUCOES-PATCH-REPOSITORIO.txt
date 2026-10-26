@@ -1,0 +1,6 @@
+PATCH DOS SCRIPTS DE GERACAO - NAO E PATCH DO SISTEMA FOUNDRY!
+
+Este ZIP atualiza o pacote anterior do repositório GitHub para gerar cinco tipos de download.
+Extraia por cima da raiz do repositório, preservando .github/workflows.
+Depois, execute Actions > Compilar Cyberpunk RED PT-BR para Foundry 14.369.
+O PATCH BINARIO DO SISTEMA sera criado apos a compilacao.
